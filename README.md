@@ -1,5 +1,7 @@
 # Criação de Copy de Marketing com GPT-4
 
+**Criado por:** Felipe de Paula Palmeira.
+
 Este programa Python utiliza a API da OpenAI, especificamente o modelo GPT-3.5-turbo, para criar um "copy" de marketing com base nas informações fornecidas pelo usuário.
 
 ## Instalação e Configuração
